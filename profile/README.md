@@ -1,12 +1,33 @@
-## Hi there 👋
+# 🎄Ne-o-rdinary N팀 _ RE:PLY 📭🎄
+> 안녕하세요🖐🏻 Ne(o)rdinary Hackathon N팀입니다! ❤️
 
-<!--
+![1](https://github.com/user-attachments/assets/4a836dcf-e098-4263-a973-4f019f4546b0)
 
-**Here are some ideas to get you started:**
+## 👶🏻 팀원 구성
+|<img src="https://avatars.githubusercontent.com/u/64758823?v=4,ptq124,박태규 Park Tae Kyu,https://github.com/ptq124" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/114673063?v=4,marshmallowing,Youjin,https://github.com/marshmallowing" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/81246338?v=4,gkfla668,임하림,https://github.com/gkfla668" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/108733746?v=4,Yoon0221,신지윤 (Yoon),https://github.com/Yoon0221" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/115148838?v=4,hcg0127,,https://github.com/hcg0127" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/154957716?v=4,OZIIJIN,OZIIJIN,https://github.com/OZIIJIN" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/102686050?v=4,junehojo,,https://github.com/junehojo" width="150" height="150"/>
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:
+|FE : [@ptq124](https://github.com/ptq124)|FE : [@marshmallowing](https://github.com/marshmallowing)|FE : [@gkfla668](https://github.com/gkfla668)|BE : [@Yoon0221](https://github.com/Yoon0221)|BE : [@hcg0127](https://github.com/hcg0127)|BE : [@OZIIJIN](https://github.com/OZIIJIN)|Designer : [@junehojo](https://github.com/junehojo)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## 💬 프로젝트 소개
+
+RE:PLY는 연말과 새해를 맞아 사용자가 한 해를 되돌아보고 다가오는 한 해를 계획할 수 있도록 돕는 자기성찰 및 목표 설정 서비스입니다. 
+<br /> 🧧연말과 🎄새해를 맞아 자신만의 이야기를 써 내려갈 준비가 되셨나요? 😊
+
+## ⭐️ 주요 기능
+
+- ⁉️ 랜덤 질문 제공
+
+    - 한 해를 돌아보거나 내년 목표를 설정할 수 있도록 다양한 랜덤 질문을 제공한다.
+
+- 📥 답변 저장 및 URL 공유
+
+    - 사용자가 답변을 저장하고, 링크를 복사하여 공유할 수 있다.
+
+## 💻 프로젝트 구조
+
+![image](https://github.com/user-attachments/assets/ecb97a33-4296-42f5-8143-cc70283290f5)
+
+## 🎬 시연영상
+https://github.com/user-attachments/assets/9997d7fc-61f8-465a-9c4b-3f5688e15b89
+
